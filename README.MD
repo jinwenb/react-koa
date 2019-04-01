@@ -1,9 +1,9 @@
 ## 此项目是前后端都做得一个全栈项目
-![image](https://github.com/jinwenb/react-koa/blob/master/image/socket.PNG)
+![image](https://github.com/jinwenb/react-koa/blob/master/image/socket.png)
 ![image](https://github.com/jinwenb/react-koa/blob/master/image/dashen.PNG)
-![image](https://github.com/jinwenb/react-koa/blob/master/image/head.PNG)
-![image](https://github.com/jinwenb/react-koa/blob/master/image/login.PNG)
-![image](https://github.com/jinwenb/react-koa/blob/master/image/register.PNG)
+![image](https://github.com/jinwenb/react-koa/blob/master/image/head.png)
+![image](https://github.com/jinwenb/react-koa/blob/master/image/login.png)
+![image](https://github.com/jinwenb/react-koa/blob/master/image/register.png)
 
 
 -- 服务器端使用的是mysql mongodb  koa websocket
