@@ -1,0 +1,45 @@
+{
+  "name": "zhi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "css-loader": "^2.1.1",
+    "customize-cra": "^0.2.12",
+    "js-cookie": "^2.2.0",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "prop-types": "^15.7.2",
+    "rc-queue-anim": "^1.6.12",
+    "rc-tween-one": "^2.3.4",
+    "react": "^16.8.4",
+    "react-app-rewired": "^2.1.1",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "socket.io": "^2.2.0",
+    "style-loader": "^0.23.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "antd-mobile": "^2.2.9"
+  },
+  "proxy": "http://localhost:8080"
+}
